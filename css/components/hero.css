@@ -35,9 +35,7 @@
   letter-spacing: 0.48px;
 }
 
-.hero__picture-further {
+.hero__picture {
   position: relative;
 }
-.hero__picture-closer {
-  position: relative;
-}
+
