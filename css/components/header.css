@@ -1,8 +1,16 @@
+.header {
+  padding-top: 17px;
+  padding-bottom: 43px;
+}
+
 .header__container {
+  padding: 19px 28px;
   display: flex;
-  padding: 17px 28px 43px 28px;
   align-items: center;
   justify-content: space-between;
+  border-radius: 30px;
+  background-color: rgba(255, 255, 255, 1);
+  box-shadow: 0 -4px 19px 0 rgba(0, 0, 0, 0.03);
 }
 
 .header__main-menu-left {
@@ -16,6 +24,13 @@
   display: flex;
   align-items: center;
   column-gap: 48px;
+}
+
+.header__main-menu-item {
+  font-size: 15px;
+  line-height: 16px;
+  letter-spacing: 0.48px;
+
 }
 
 .header__main-menu-right {
