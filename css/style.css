@@ -3,3 +3,13 @@
 @import "./nullstyle.css";
 
 @import "./typography.css";
+
+
+.container {
+  width: 100%;
+  max-width: 1232px;
+  height: 100%;
+  padding-right: 16px;
+  padding-left: 16px;
+  margin: 0 auto;
+}
