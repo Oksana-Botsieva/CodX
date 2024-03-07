@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "Outfit", sans-serif;
+  src:  local(Outfit-Regular),
+  url("../assets/fonts/Outfit-Regular.woff"),
+  url("../assets/fonts/Outfit-Regular.woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Outfit", sans-serif;
+  src:  local(Outfit-Bold),
+  url("../assets/fonts/Outfit-Bold.woff"),
+  url("../assets/fonts/Outfit-Bold.woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
