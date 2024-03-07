@@ -1,0 +1,17 @@
+.button {
+  display: flex;
+  width: fit-content;
+  height: 44px;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--border-color);
+  border: none;
+  color: #FFFFFF;
+  padding: 12px 40px 16px 40px;
+}
+
+@media (hover: hover) {
+  .button:hover:not(:focus) {
+    background-color: var(--small-text-color-pink);
+  }
+}

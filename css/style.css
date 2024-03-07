@@ -6,6 +6,7 @@
 
 @import "./typography.css";
 
+@import "./ui-kit/button.css";
 
 .container {
   width: 100%;
