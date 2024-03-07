@@ -7,7 +7,9 @@
   width: 105px;
   height: 33px;
   align-items: center;
-padding: 5px 15px 5px 8px;
+  position: absolute;
+  top: 15px;
+  left: -19px;
 }
 
 .badge__avatar-further {
@@ -31,6 +33,9 @@ padding: 5px 15px 5px 8px;
   width: 325px;
   height: 325px;
   border-radius: 30px;
+  position: absolute;
+  left: 21px;
+  z-index: -4;
 }
 
 .badge__author-closer {
@@ -43,6 +48,9 @@ padding: 5px 15px 5px 8px;
   height: 55px;
   align-items: center;
   padding: 7px 13px 7px 11px;
+  position: absolute;
+  top: 433px;
+  left: 106px;
 }
 
 .badge__avatar-closer {
@@ -70,4 +78,8 @@ padding: 5px 15px 5px 8px;
   width: 410px;
   height: 410px;
   border-radius: 30px;
+  /* position: absolute; */
+  /* top: 100px; */
+  /* left: 190px; */
+  /* z-index: -1; */
 }
