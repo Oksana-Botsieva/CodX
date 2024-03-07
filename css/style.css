@@ -8,8 +8,10 @@
 
 @import "./ui-kit/button.css";
 @import "./ui-kit/text-link.css";
+@import "./ui-kit/badge-author.css";
 
 @import "./components/header.css";
+@import "./components/hero.css";
 
 .container {
   width: 100%;
