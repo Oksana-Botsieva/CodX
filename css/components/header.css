@@ -13,7 +13,7 @@
   box-shadow: 0 -4px 19px 0 rgba(0, 0, 0, 0.03);
 }
 
-.header__main-menu-left {
+.header__main-menu-navigation {
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -33,13 +33,13 @@
 
 }
 
-.header__main-menu-right {
+.header__main-menu-social {
   display: flex;
   column-gap: 48px;
   align-items: center;
 }
 
-.header__main-menu-social {
+.header__main-menu-social-list {
   display: flex;
   column-gap: 19px;
 }
