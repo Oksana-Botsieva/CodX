@@ -54,11 +54,8 @@
   padding: 11px 15px 15px 15px;
 }
 
-@media (hover: hover) {
-  .header__main-menu-social-twitter:hover:not(:focus) svg path,
-  .header__main-menu-social-instargam:hover:not(:focus) svg path,
-  .header__main-menu-social-facebook:hover:not(:focus) svg path {
+.header__main-menu-social-icon:hover:not(:focus) svg path  {
     fill: var(--small-text-color-pink);
   }
-}
+
 
