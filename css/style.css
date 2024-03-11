@@ -9,10 +9,12 @@
 @import "./ui-kit/button.css";
 @import "./ui-kit/text-link.css";
 @import "./ui-kit/badge-author.css";
+@import "./ui-kit/lock.css";
 
 @import "./components/header.css";
 @import "./components/hero.css";
 @import "./components/collections.css";
+
 
 .container {
   width: 100%;
