@@ -7,6 +7,9 @@
 @import "./typography.css";
 
 
+
+@import "./article.css";
+@import "./join.css";
 .container {
   width: 100%;
   max-width: 1232px;
