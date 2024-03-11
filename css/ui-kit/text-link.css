@@ -1,0 +1,5 @@
+@media (hover: hover) {
+  .text-link:hover:not(:focus) {
+    color: var(--small-text-color-pink);
+  }
+}
