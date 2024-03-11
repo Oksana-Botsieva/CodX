@@ -6,7 +6,7 @@
 
 @import "./typography.css";
 
-
+@import "./hey.css";
 .container {
   width: 100%;
   max-width: 1232px;
