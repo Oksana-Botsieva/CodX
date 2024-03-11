@@ -1,0 +1,28 @@
+.nft__card {
+  display: flex;
+  flex-direction: column;
+
+}
+
+.nft__card-image {
+  width: 332px;
+  height: 210px;
+  border-radius: 30px;
+}
+
+.nft__card-wrapper {
+  display: flex;
+  padding: 20px;
+  column-gap: 50px;
+  align-items: center;
+}
+
+.nft__card-number {
+  display: flex;
+  column-gap: 8px;
+}
+
+.nft__card-icon {
+  display: flex;
+  column-gap: 8px;
+}
