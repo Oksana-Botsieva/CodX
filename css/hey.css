@@ -1,8 +1,6 @@
-/* .hey__container {
-  display: flex;
-  flex-direction: column;
-
-} */
+.hey__container {
+padding-bottom: 84px;
+}
 
 .hey__picture-block {
   display: flex;
