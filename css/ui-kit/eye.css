@@ -5,5 +5,7 @@ fill: rgba(0, 0, 0, 0.7);
   background-color: rgba(168,193,216, 0.2);
   width: 38px;
   height: 38px;
-  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
