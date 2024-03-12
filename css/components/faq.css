@@ -1,0 +1,17 @@
+.faq__container {
+  padding-bottom: 103px;
+}
+
+.faq__title {
+padding-bottom: 50px;
+}
+.faq__question-item {
+  padding: 23px 30px 29px 26px;
+  display: flex;
+justify-content: space-between;
+}
+.question__text {
+  font-size: 22px;
+  line-height: 24px;
+}
+

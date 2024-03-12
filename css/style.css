@@ -12,6 +12,8 @@
 
 @import "./components/header.css";
 @import "./components/hero.css";
+@import "./components/faq.css";
+
 
 .container {
   width: 100%;
