@@ -36,7 +36,7 @@ font-size: 64px;
   padding-bottom: 72px;
 }
 
-.person__buttons {
+.hey__person-buttons {
   display: flex;
   column-gap: 8px;
   padding-bottom: 64px;
@@ -65,7 +65,7 @@ font-size: 64px;
   border: none;
 }
 
-.person__card {
+.hey__person-card {
   display: flex;
   align-items: center;
   padding: 0 48px 146px 48px;
