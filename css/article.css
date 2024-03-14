@@ -22,15 +22,15 @@
   color: #fff;
 }
 
-.number__green {
+.article__number_green {
   background-color: var(--small-text-color-green);
 }
 
-.number__pink {
+.article__number_pink {
   background-color: var(--small-text-color-pink);
 }
 
-.number__yellow {
+.article__number_yellow {
   background-color: #EAD71B;
 }
 
