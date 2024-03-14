@@ -21,23 +21,23 @@
 .navigation__link {
   padding-right: 18px;
 }
-.community__logo {
+.footer__navigation-community-logo {
   padding-bottom: 45px;
   padding-right: 65px;
 }
 
-.community__logo svg {
+.footer__navigation-community-logo svg {
   width: 138px;
   height: 50px;
 }
 
-.community__text {
+.footer__navigation-community-text {
   font-size: 20px;
   line-height: 20px;
   padding-bottom: 19px;
 }
 
-.community__social-list {
+.footer__navigation-social-list {
   display: flex;
   column-gap: 19px;
   align-items: center;
@@ -55,6 +55,12 @@
   font-size: 20px;
   line-height: 20px;
   padding-right: 37px;
+}
+
+.navigation__list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
 }
 
 .navigation__link {
