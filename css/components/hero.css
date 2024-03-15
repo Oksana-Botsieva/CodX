@@ -1,14 +1,14 @@
 .hero__container {
   display: flex;
-  padding-bottom: 41px;
   align-items: center;
-  /* justify-content: space-between; */
+  padding-bottom: calc(180px + 41px);
+  padding-top: 50px;
 }
 .hero__content {
   display: flex;
   flex-direction: column;
   row-gap: 8px;
-  /* padding-right: 62px; */
+  padding-right: 64px;
 }
 .hero__content-wrapper {
   display: flex;
@@ -35,7 +35,8 @@
   letter-spacing: 0.48px;
 }
 
-.hero__picture {
-  position: relative;
+.hero__content-pictures {
+position: relative;
+  display: flex;
+  justify-content: space-between;
 }
-

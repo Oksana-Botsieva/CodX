@@ -10,6 +10,7 @@
   position: absolute;
   top: 15px;
   left: -19px;
+  z-index: 2;
 }
 
 .badge__avatar-further {
@@ -33,9 +34,8 @@
   width: 325px;
   height: 325px;
   border-radius: 30px;
-  /* position: absolute;
+  position: absolute;
   left: 21px;
-  z-index: -4; */
 }
 
 .badge__author-closer {
@@ -51,6 +51,7 @@
   position: absolute;
   top: 433px;
   left: 106px;
+  z-index: 5;
 }
 
 .badge__avatar-closer {
@@ -78,8 +79,9 @@
   width: 410px;
   height: 410px;
   border-radius: 30px;
-/*   position: absolute;
+  position: relative;
+  /* почему все работает с position relative, а не absolute ?  */
   top: 100px;
   left: 190px;
-  z-index: -1; */
+  z-index: 2;
 }
