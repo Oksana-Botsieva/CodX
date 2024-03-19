@@ -7,9 +7,19 @@
 @import "./typography.css";
 
 @import "./hey.css";
+@import "./ui-kit/button.css";
+@import "./ui-kit/text-link.css";
+@import "./ui-kit/badge-author.css";
+@import "./ui-kit/nft-card.css";
+
+@import "./components/header.css";
+@import "./components/hero.css";
+@import "./components/collections.css";
+@import "./components/nft.css";
+
 .container {
   width: 100%;
-  max-width: 1232px;
+  max-width: 1200px;
   height: 100%;
   padding-right: 16px;
   padding-left: 16px;

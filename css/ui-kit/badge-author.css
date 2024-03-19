@@ -1,0 +1,87 @@
+.badge__author-further {
+  display: flex;
+  column-gap: 5px;
+  background-color: rgba(255, 255, 255, 0.85);
+  box-shadow: 0 -4px 19px 0 rgba(0, 0, 0, 0.03);
+  border-radius: 30px;
+  width: 105px;
+  height: 33px;
+  align-items: center;
+  position: absolute;
+  top: 15px;
+  left: -19px;
+  z-index: 2;
+}
+
+.badge__avatar-further {
+  border-radius: 12px;
+}
+
+.badge__names-further {
+  line-height: 11px;
+  letter-spacing: 0.48px;
+}
+
+.name__author-further {
+  font-size: 11px;
+}
+
+.name__sub-text-further {
+  font-size: 9px;
+}
+
+.badge-picture-further {
+  width: 325px;
+  height: 325px;
+  border-radius: 30px;
+  position: absolute;
+  left: 21px;
+}
+
+.badge__author-closer {
+  display: flex;
+  column-gap: 12px;
+  background-color: rgba(255, 255, 255, 0.85);
+  box-shadow: 0 -4px 19px 0 rgba(0, 0, 0, 0.03);
+  border-radius: 30px;
+  width: 159px;
+  height: 55px;
+  align-items: center;
+  padding: 7px 13px 7px 11px;
+  position: absolute;
+  top: 433px;
+  left: 106px;
+  z-index: 5;
+}
+
+.badge__avatar-closer {
+  border-radius: 20.5px;
+}
+
+.badge__names-closer {
+  line-height: 13px;
+  letter-spacing: 0.48px;
+}
+
+.name__author-closer {
+  font-size: 16px;
+  line-height: 16px;
+  letter-spacing: 0.48px;
+}
+
+.name__sub-text-closer {
+  font-size: 11px;
+  line-height: 13px;
+  letter-spacing: 0.48px;
+}
+
+.badge-picture-closer {
+  width: 410px;
+  height: 410px;
+  border-radius: 30px;
+  position: relative;
+  /* почему все работает с position relative, а не absolute ?  */
+  top: 100px;
+  left: 190px;
+  z-index: 2;
+}
