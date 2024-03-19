@@ -1,7 +1,7 @@
 .join__wrapper {
   background-color: var(--small-text-color-green);
   height: 456px;
-  padding-bottom: 101px;
+  /* padding-bottom: 101px; */
 }
 .join__container {
   display: flex;

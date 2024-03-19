@@ -52,6 +52,7 @@ font-size: 64px;
   border-radius: 30px;
   border: 1px solid var(--border-color);
   background-color: var(--background-color);
+  color: var(--border-color);
 }
 
 .person__button:focus {
@@ -109,7 +110,7 @@ font-size: 64px;
   padding-left: 48px;
 }
 
-.article__title {
+.article__content-title {
   font-size: 35px;
   line-height: 36px;
   letter-spacing: 0.48px;
