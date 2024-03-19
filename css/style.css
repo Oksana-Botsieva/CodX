@@ -17,6 +17,9 @@
 @import "./components/collections.css";
 @import "./components/nft.css";
 
+
+@import "./article.css";
+@import "./join.css";
 .container {
   width: 100%;
   max-width: 1200px;

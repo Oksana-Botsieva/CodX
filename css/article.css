@@ -1,0 +1,48 @@
+.article__container {
+  display: flex;
+  column-gap: 63px;
+  padding-bottom: 185px;
+  align-items: center;
+}
+
+.articles__list {
+  display: flex;
+  flex-direction: column;
+  row-gap: 32px;
+  padding: 64px 90px 64px 64px;
+}
+
+.article__number {
+  font-size: 16px;
+  line-height: 18px;
+  letter-spacing: 0.48px;
+  padding: 6px 20px 11px 20px;
+  width: fit-content;
+  border-radius: 30px;
+  color: #fff;
+}
+
+.article__number_green {
+  background-color: var(--small-text-color-green);
+}
+
+.article__number_pink {
+  background-color: var(--small-text-color-pink);
+}
+
+.article__number_yellow {
+  background-color: #EAD71B;
+}
+
+.article__title {
+  font-weight: 700;
+  font-size: 35px;
+  line-height: 36px;
+  letter-spacing: 0.48px;
+}
+
+.article__image {
+  width: 552px;
+  height: 596px;
+  border-radius: 30px;
+}
