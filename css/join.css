@@ -1,0 +1,45 @@
+.join__wrapper {
+  background-color: var(--small-text-color-green);
+  height: 456px;
+  padding-bottom: 101px;
+}
+.join__container {
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+
+.banner__title {
+  max-width: 657px;
+  padding-bottom: 33px;
+}
+
+.banner__text {
+  font-size: 20px;
+  line-height: 26px;
+  padding-bottom: 48px;
+}
+
+.banner__button {
+  width: 207px;
+  height: 44px;
+  text-align: center;
+  color: #FFFFFF;
+  background-color: var(--border-color);
+  font-size: 15px;
+  line-height: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+.banner__button:hover:not(:focus) {
+  background-color: var(--small-text-color-pink);
+}
+
+.join__image {
+  position: absolute;
+  top: -64px;
+  left: 1026px;
+  width: 380px;
+  height: 520px;
+}

@@ -6,14 +6,22 @@
 
 @import "./typography.css";
 
+
 @import "./ui-kit/button.css";
 @import "./ui-kit/text-link.css";
 @import "./ui-kit/badge-author.css";
+@import "./ui-kit/nft-card.css";
 
 @import "./components/header.css";
 @import "./components/hero.css";
+@import "./components/collections.css";
+@import "./components/nft.css";
 @import "./components/faq.css";
 @import "./components/footer.css";
+
+@import "./hey.css";
+@import "./article.css";
+@import "./join.css";
 
 .container {
   width: 100%;
